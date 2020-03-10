@@ -26,9 +26,9 @@ This task is dedicated to explore how to leverage multimodal information for vid
 
 - A sample:  (*[clip<sub>a<sub>1</sub></sub>, clip<sub>a<sub>2</sub></sub>, ...., clip<sub>a<sub>M</sub></sub>], [clip<sub>b<sub>1</sub></sub>, clip<sub>b<sub>2</sub></sub>, ...., clip<sub>b<sub>N</sub></sub>], label*)
     - A clip is corresponding to a shot or a scene in the video
-    - For a clip, we will give 3 types of features, conveying multimodal information.
-     - a. Visual feature: a frame feature obtained from the frames of the clip
-     - b. Audio feature: an audio feature extracted from the audio track of the clip
+    - For a clip, we will give 2 types of features, conveying multimodal information.
+        - Visual feature: a frame feature obtained from the frames of the clip
+        - Audio feature: an audio feature extracted from the audio track of the clip
      All the features are extracted using pre-trained CNN models. 
 - *label* indicates whether the two sets of clips are from the same video or not.
 
