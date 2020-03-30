@@ -70,7 +70,7 @@ The participants should send the results to cbvrp-acmmm-2020@hulu.com. After rec
 
 |        Date       |                  Event                  |
 | ----------------- |:---------------------------------------:|
-|   Apr. 1, 2020    | Registration open                       |
+|   Apr. 10, 2020    | Registration open                       |
 |   Apr. 15, 2020   | Release training and validation data    | 
 |   May 18, 2020    | Release test data                       |
 |   Jun. 29, 2020   | Deadline for final result submission    |
