@@ -1,4 +1,4 @@
-# <font color="#660000">Cancellation</font><br />: Content-based Video Relevance Prediction Challenge
+# Cancellation: Content-based Video Relevance Prediction Challenge
 
 <font color=red>Due to the pandemic of COVID-19 influence, Hulu decided to cancel the CBVRP challenge. We really appreciate your interest in our challenge and sorry for the inconvenience to you. We hope we can find a chance to continue the CBVRP challenge after this difficult period.</font>
 
